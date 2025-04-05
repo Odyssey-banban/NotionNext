@@ -8,8 +8,8 @@ const CONFIG = {
 
   // 首页顶部通知条滚动内容，如不需要可以留空 []
   HEO_NOTICE_BAR: [
-    { title: '欢迎来到我的博客', url: 'https://blog.tangly1024.com' },
-    { title: '访问文档中心获取更多帮助', url: 'https://docs.tangly1024.com' }
+    { title: '🚀欢迎来到我的精神家园', url: '/about' },
+    { title: '彼之灵魂即整个宇宙', url: '/tag/人生哲学' }
   ],
 
   // 英雄区左右侧组件颠倒位置
@@ -18,19 +18,19 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '分享编程',
-  HEO_HERO_TITLE_2: '与思维认知',
-  HEO_HERO_TITLE_3: 'TANGLY1024.COM',
-  HEO_HERO_TITLE_4: '新版上线',
-  HEO_HERO_TITLE_5: 'NotionNext4.0 轻松定制主题',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_1: '入站必看',
+  HEO_HERO_TITLE_2: '作者的经历与介绍',
+  HEO_HERO_TITLE_3: 'freshodyssey.top',
+  HEO_HERO_TITLE_4: '探索Web3与哲学',
+  HEO_HERO_TITLE_5: '和Self development',
+  HEO_HERO_TITLE_LINK: '/freshodyssey.top',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '随便逛逛',
+  HEO_HERO_COVER_TITLE: '点击不亏',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '必看精选', url: '/tag/必看精选' },
-  HEO_HERO_CATEGORY_2: { title: '热门文章', url: '/tag/热门文章' },
-  HEO_HERO_CATEGORY_3: { title: '实用教程', url: '/tag/实用教程' },
+  HEO_HERO_CATEGORY_1: { title: '加密热点', url: '/tag/加密热点' },
+  HEO_HERO_CATEGORY_2: { title: '人生哲学', url: '/tag/人生哲学' },
+  HEO_HERO_CATEGORY_3: { title: '技能干货', url: '/tag/技能干货' },
 
   // 英雄区右侧推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   HEO_HERO_RECOMMEND_POST_TAG: '推荐',
@@ -40,20 +40,20 @@ const CONFIG = {
   // 右侧个人资料卡牌欢迎语，点击可自动切换
   HEO_INFOCARD_GREETINGS: [
     '你好！我是',
-    '🔍 分享与热心帮助',
-    '🤝 专修交互与设计',
-    '🏃 脚踏实地行动派',
-    '🏠 智能家居小能手',
-    '🤖️ 数码科技爱好者',
-    '🧱 团队小组发动机'
+    '🔍 爱哲学与爱生命',
+    '🤝 互联网禅修实践',
+    '🏃 自我迭代实验室',
+    '🏠 链接资源好能手',
+    '🤖️ 难懂概念科普家',
+    '🧱 摇滚电音发动机'
   ],
 
   // 个人资料底部按钮
   HEO_INFO_CARD_URL1: '/about',
   HEO_INFO_CARD_ICON1: 'fas fa-user',
-  HEO_INFO_CARD_URL2: 'https://github.com/tangly1024',
+  HEO_INFO_CARD_URL2: 'https://github.com/Odyssey-banban',
   HEO_INFO_CARD_ICON2: 'fab fa-github',
-  HEO_INFO_CARD_URL3: 'https://www.tangly1024.com',
+  HEO_INFO_CARD_URL3: 'https://freshodyssey.top',
   HEO_INFO_CARD_TEXT3: '了解更多',
 
   // 用户技能图标
