@@ -18,17 +18,17 @@ const CONFIG = {
   HEO_HERO_BODY_REVERSE: false,
 
   // 英雄区(首页顶部大卡)
-  HEO_HERO_TITLE_1: '入站必看',
-  HEO_HERO_TITLE_2: '作者的经历与介绍',
+  HEO_HERO_TITLE_1: '探索Web3与哲学',
+  HEO_HERO_TITLE_2: '和Self development',
   HEO_HERO_TITLE_3: 'freshodyssey.top',
-  HEO_HERO_TITLE_4: '探索Web3与哲学',
-  HEO_HERO_TITLE_5: '和Self development',
-  HEO_HERO_TITLE_LINK: '/freshodyssey.top',
+  HEO_HERO_TITLE_4: '入站必看',
+  HEO_HERO_TITLE_5: '作者的经历与介绍',
+  HEO_HERO_TITLE_LINK: '/https://www.freshodyssey.top/article/Resume',
   // 英雄区遮罩文字
-  HEO_HERO_COVER_TITLE: '点击不亏',
+  HEO_HERO_COVER_TITLE: '随便看看',
 
   // 英雄区显示三个置顶分类
-  HEO_HERO_CATEGORY_1: { title: '加密热点', url: '/tag/加密热点' },
+  HEO_HERO_CATEGORY_1: { title: '加密世界', url: '/tag/加密世界' },
   HEO_HERO_CATEGORY_2: { title: '人生哲学', url: '/tag/人生哲学' },
   HEO_HERO_CATEGORY_3: { title: '技能干货', url: '/tag/技能干货' },
 
