@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'freshodyssey.top',
   HEO_HERO_TITLE_4: '入站必看',
   HEO_HERO_TITLE_5: '作者的经历与介绍',
-  HEO_HERO_TITLE_LINK: '/https://www.freshodyssey.top/article/Resume',
+  HEO_HERO_TITLE_LINK: '/article/Resume',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便看看',
 
